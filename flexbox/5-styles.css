@@ -244,6 +244,7 @@ margin: 1rem;
     width: 100%;
   }
   
+  
   /* Header
       ============================= */
   
@@ -255,7 +256,7 @@ margin: 1rem;
   }
   
   
-  .header .container{
+  .header-container{
 display: flex;
 justify-content: space-between;
   }
